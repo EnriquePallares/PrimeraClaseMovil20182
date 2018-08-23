@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="titulo">CALCULADORA</string>
+    <string name="primer_numero">Primer Número</string>
+    <string name="segundo_numero">Segundo Número</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="multiplicacion">Multiplicación</string>
+    <string name="division">División</string>
+    <string name="seleccione">Seleccione una operación</string>
+    <string name="error_1">Digite el número uno</string>
+    <string name="error_2">Digite el número dos</string>
+    <string name="error_3">Seleccione una operación</string>
+    <string name="error_4">El número dos no puede ser cero</string>
+
+
+    <string-array name="opciones">
+        <item>@string/seleccione</item>
+        <item>@string/suma</item>
+        <item>@string/resta</item>
+        <item>@string/multiplicacion</item>
+        <item>@string/division</item>
+    </string-array>
+</resources>
